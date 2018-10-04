@@ -1,0 +1,31 @@
+Function=xamarin_timezone_get_data
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_get_block_descriptor
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/sjadhav/Projects/MVVMFormsApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

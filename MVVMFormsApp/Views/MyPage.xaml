@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MVVMFormsApp.Views.MyPage">
+	<StackLayout padding="10" Orientation="Vertical"></StackLayout>
+
+    <Label Text="wffewrte" BackgroundColor="White"></Label>
+    <Entry Margin="20" ></Entry>
+</ContentPage>

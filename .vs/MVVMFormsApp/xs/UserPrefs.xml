@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{61D705C4-1EA1-463D-826C-6EB3D9F623B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.MVVMFormsApp.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="MVVMFormsApp/Views/MVVMFormsAppPage.xaml" Line="31" Column="1" />
+      <File FileName="MVVMFormsApp/Views/MVVMFormsAppPage.xaml.cs" Line="14" Column="6" />
+      <File FileName="MVVMFormsApp/ViewModel/AddContactViewModel.cs" Line="27" Column="21" />
+      <File FileName="MVVMFormsApp/App.xaml.cs" Line="12" Column="1" />
+      <File FileName="MVVMFormsApp/App.xaml" Line="7" Column="1" />
+      <File FileName="MVVMFormsApp/Models/Friend.cs" Line="10" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="20" Column="1" />
+      <File FileName="MVVMFormsApp/Views/MyPage.xaml" Line="8" Column="1" />
+      <File FileName="MVVMFormsApp/Views/MyPage.xaml.cs" Line="16" Column="1" />
+      <File FileName="MVVMFormsApp/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="23" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MVVMFormsApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.908D61E0-ADCD-4DBC-85A2-D6B92145AEFB">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.MVVMFormsApp.iOS>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sjadhav/XamarinProjects/MVVMFormsApp/MVVMFormsApp/MVVMFormsAppPage.xaml.cs" relfile="MVVMFormsApp/MVVMFormsAppPage.xaml.cs" line="12" column="1" />
+      <Breakpoint file="/Users/sjadhav/XamarinProjects/MVVMFormsApp/MVVMFormsApp/MVVMFormsAppPage.xaml.cs" relfile="MVVMFormsApp/MVVMFormsAppPage.xaml.cs" line="13" column="1" />
+      <Breakpoint file="/Users/sjadhav/XamarinProjects/MVVMFormsApp/MVVMFormsApp/ViewModel/AddContactViewModel.cs" relfile="MVVMFormsApp/ViewModel/AddContactViewModel.cs" line="91" column="1" />
+      <Breakpoint file="/Users/sjadhav/XamarinProjects/MVVMFormsApp/MVVMFormsApp/ViewModel/AddContactViewModel.cs" relfile="MVVMFormsApp/ViewModel/AddContactViewModel.cs" line="82" column="1" />
+      <Breakpoint file="/Users/sjadhav/XamarinProjects/MVVMFormsApp/MVVMFormsApp/ViewModel/AddContactViewModel.cs" relfile="MVVMFormsApp/ViewModel/AddContactViewModel.cs" line="81" column="1" />
+      <Breakpoint file="/Users/sjadhav/XamarinProjects/MVVMFormsApp/MVVMFormsApp/ViewModel/AddContactViewModel.cs" relfile="MVVMFormsApp/ViewModel/AddContactViewModel.cs" line="70" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

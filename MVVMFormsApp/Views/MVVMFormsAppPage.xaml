@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:MVVMFormsApp" x:Class="MVVMFormsApp.MVVMFormsAppPage">
+<StackLayout Padding="10" Spacing="10">
+        
+<Label Text="Name:" />
+
+       
+<Entry  Text="{Binding Name}" Placeholder="Enter name"></Entry>
+    
+    <Label Text="Last Name: "  />
+<Entry  Text="{Binding LastName}" Placeholder="Enter Last Name"></Entry>
+
+    <Label Text="Website: "/>
+<Entry  Text="{Binding Website}" Placeholder="Your Website"></Entry>
+
+        <StackLayout Orientation="Horizontal" Spacing="10">
+         <Label Text="Best Friend?"></Label>
+            <Switch IsToggled="{Binding BestFriend}"></Switch>
+         
+            </StackLayout>
+
+             <Label  Text="{Binding DisplayMessage}">      </Label>
+            <Button Text="Open Web" Command="{Binding LaunchWebsiteCommand}"></Button>
+        
+            <Button Text="Save Contact" Command="{Binding SaveChangesCommand}"></Button>
+
+         <Button Text="Next Page" Command="{Binding NavigateToMyPageCommand}"></Button>
+        <ActivityIndicator IsRunning="{Binding IsBusy}" Color="#000000" IsEnabled="{Binding IsBusy}"></ActivityIndicator>
+   </StackLayout>
+</ContentPage>
